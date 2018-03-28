@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632a0dc0b7454649e8ec4916b7b6a00b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7f84b7bbc26b36895172a7374a474d6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4d1bad18d257f23726f0cf32ff6a10b5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ab85bdda0ca2fa4b259607d4d707cf85\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\f7f26527d3313cf77be79a7971ec0695\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\439d76732e209552539ec6d687616e2b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dea7f558eeb941cd5f6173205dfb50b0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\11cb320f4395bf88d7b169fff2c4196b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\6f556dd41c8e28ea976e64539bddee7b\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\059a9945d5623262b0216eaa55ed63fd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\93bf1b36ebbc0904de97de5d5e11e611\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b15b2108e0e30714ad05eac2c9df8210\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5dc1f32ed5010c9e6ecbfb6439041e88\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\eba2eb4413183a2799fd2bbecf6d2575\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b41986d4bad69fec6a1a1e7c3491aa0f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\590db1fda182c3f6ff0918c34f0b24a4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3cd026af559f87e2ed95a6890e183f3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.0.aar\bcf6e3f76997aca8f8f91156e2fb87a2\AndroidManifest.xml:2:1-8:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\943256605e2eead396eca980a0c24270\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.0.aar\2df9e28e3f5322527dc65efee2036aff\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.0.aar\d7bdbe84360ccf3245dbcd19830c531c\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.0.aar\6f6486a2487d6ac9ac6fc63c9bd87763\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632a0dc0b7454649e8ec4916b7b6a00b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632a0dc0b7454649e8ec4916b7b6a00b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7f84b7bbc26b36895172a7374a474d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7f84b7bbc26b36895172a7374a474d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4d1bad18d257f23726f0cf32ff6a10b5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4d1bad18d257f23726f0cf32ff6a10b5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ab85bdda0ca2fa4b259607d4d707cf85\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ab85bdda0ca2fa4b259607d4d707cf85\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\f7f26527d3313cf77be79a7971ec0695\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\f7f26527d3313cf77be79a7971ec0695\AndroidManifest.xml:30:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\439d76732e209552539ec6d687616e2b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\439d76732e209552539ec6d687616e2b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dea7f558eeb941cd5f6173205dfb50b0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dea7f558eeb941cd5f6173205dfb50b0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\11cb320f4395bf88d7b169fff2c4196b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\11cb320f4395bf88d7b169fff2c4196b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\6f556dd41c8e28ea976e64539bddee7b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\6f556dd41c8e28ea976e64539bddee7b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\059a9945d5623262b0216eaa55ed63fd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\059a9945d5623262b0216eaa55ed63fd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\93bf1b36ebbc0904de97de5d5e11e611\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\93bf1b36ebbc0904de97de5d5e11e611\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b15b2108e0e30714ad05eac2c9df8210\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b15b2108e0e30714ad05eac2c9df8210\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5dc1f32ed5010c9e6ecbfb6439041e88\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5dc1f32ed5010c9e6ecbfb6439041e88\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\eba2eb4413183a2799fd2bbecf6d2575\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\eba2eb4413183a2799fd2bbecf6d2575\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b41986d4bad69fec6a1a1e7c3491aa0f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b41986d4bad69fec6a1a1e7c3491aa0f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\590db1fda182c3f6ff0918c34f0b24a4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\590db1fda182c3f6ff0918c34f0b24a4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3cd026af559f87e2ed95a6890e183f3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3cd026af559f87e2ed95a6890e183f3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.0.aar\bcf6e3f76997aca8f8f91156e2fb87a2\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.0.aar\bcf6e3f76997aca8f8f91156e2fb87a2\AndroidManifest.xml:5:5-6:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\943256605e2eead396eca980a0c24270\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\943256605e2eead396eca980a0c24270\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.0.aar\2df9e28e3f5322527dc65efee2036aff\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.0.aar\2df9e28e3f5322527dc65efee2036aff\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.0.aar\d7bdbe84360ccf3245dbcd19830c531c\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.0.aar\d7bdbe84360ccf3245dbcd19830c531c\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.0.aar\6f6486a2487d6ac9ac6fc63c9bd87763\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.0.aar\6f6486a2487d6ac9ac6fc63c9bd87763\AndroidManifest.xml:5:5-6:19
+	android:supportsRtl
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:11:9-40
+activity#projeto.falaai.com.falaai.MainActivity
+ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:16:27-74
+activity#projeto.falaai.com.falaai.tela2
+ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:19:9-43
+	android:name
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:19:19-40
+activity#projeto.falaai.com.falaai.tela3
+ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:20:9-23:68
+	android:label
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:22:13-57
+	android:theme
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:21:13-34
+uses-sdk
+INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632a0dc0b7454649e8ec4916b7b6a00b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632a0dc0b7454649e8ec4916b7b6a00b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7f84b7bbc26b36895172a7374a474d6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7f84b7bbc26b36895172a7374a474d6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4d1bad18d257f23726f0cf32ff6a10b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4d1bad18d257f23726f0cf32ff6a10b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ab85bdda0ca2fa4b259607d4d707cf85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ab85bdda0ca2fa4b259607d4d707cf85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\f7f26527d3313cf77be79a7971ec0695\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\f7f26527d3313cf77be79a7971ec0695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\439d76732e209552539ec6d687616e2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\439d76732e209552539ec6d687616e2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dea7f558eeb941cd5f6173205dfb50b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dea7f558eeb941cd5f6173205dfb50b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\11cb320f4395bf88d7b169fff2c4196b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\11cb320f4395bf88d7b169fff2c4196b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\6f556dd41c8e28ea976e64539bddee7b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\6f556dd41c8e28ea976e64539bddee7b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\059a9945d5623262b0216eaa55ed63fd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\059a9945d5623262b0216eaa55ed63fd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\93bf1b36ebbc0904de97de5d5e11e611\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\93bf1b36ebbc0904de97de5d5e11e611\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b15b2108e0e30714ad05eac2c9df8210\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b15b2108e0e30714ad05eac2c9df8210\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5dc1f32ed5010c9e6ecbfb6439041e88\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5dc1f32ed5010c9e6ecbfb6439041e88\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\eba2eb4413183a2799fd2bbecf6d2575\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\eba2eb4413183a2799fd2bbecf6d2575\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b41986d4bad69fec6a1a1e7c3491aa0f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b41986d4bad69fec6a1a1e7c3491aa0f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\590db1fda182c3f6ff0918c34f0b24a4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\590db1fda182c3f6ff0918c34f0b24a4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3cd026af559f87e2ed95a6890e183f3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3cd026af559f87e2ed95a6890e183f3\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\943256605e2eead396eca980a0c24270\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\943256605e2eead396eca980a0c24270\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632a0dc0b7454649e8ec4916b7b6a00b\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632a0dc0b7454649e8ec4916b7b6a00b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7f84b7bbc26b36895172a7374a474d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7f84b7bbc26b36895172a7374a474d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ab85bdda0ca2fa4b259607d4d707cf85\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ab85bdda0ca2fa4b259607d4d707cf85\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\439d76732e209552539ec6d687616e2b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\439d76732e209552539ec6d687616e2b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dea7f558eeb941cd5f6173205dfb50b0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dea7f558eeb941cd5f6173205dfb50b0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\11cb320f4395bf88d7b169fff2c4196b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\11cb320f4395bf88d7b169fff2c4196b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b15b2108e0e30714ad05eac2c9df8210\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b15b2108e0e30714ad05eac2c9df8210\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5dc1f32ed5010c9e6ecbfb6439041e88\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5dc1f32ed5010c9e6ecbfb6439041e88\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\eba2eb4413183a2799fd2bbecf6d2575\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\eba2eb4413183a2799fd2bbecf6d2575\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b41986d4bad69fec6a1a1e7c3491aa0f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b41986d4bad69fec6a1a1e7c3491aa0f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\590db1fda182c3f6ff0918c34f0b24a4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\590db1fda182c3f6ff0918c34f0b24a4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3cd026af559f87e2ed95a6890e183f3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3cd026af559f87e2ed95a6890e183f3\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632a0dc0b7454649e8ec4916b7b6a00b\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632a0dc0b7454649e8ec4916b7b6a00b\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\f7f26527d3313cf77be79a7971ec0695\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\f7f26527d3313cf77be79a7971ec0695\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\f7f26527d3313cf77be79a7971ec0695\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\f7f26527d3313cf77be79a7971ec0695\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\f7f26527d3313cf77be79a7971ec0695\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\f7f26527d3313cf77be79a7971ec0695\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\f7f26527d3313cf77be79a7971ec0695\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\6f556dd41c8e28ea976e64539bddee7b\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\6f556dd41c8e28ea976e64539bddee7b\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\6f556dd41c8e28ea976e64539bddee7b\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\6f556dd41c8e28ea976e64539bddee7b\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\93bf1b36ebbc0904de97de5d5e11e611\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\93bf1b36ebbc0904de97de5d5e11e611\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\93bf1b36ebbc0904de97de5d5e11e611\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:2:1-26:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:2:1-26:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\YTALO\AndroidStudioProjects\FalaAi\app\src\main\AndroidManifest.xml:2:1-26:12 reason: com.google.android.gms.license requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\943256605e2eead396eca980a0c24270\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\943256605e2eead396eca980a0c24270\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\YTALO\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\943256605e2eead396eca980a0c24270\AndroidManifest.xml:26:13-58
